@@ -1,0 +1,26 @@
+[
+  {
+    "id": "123",
+    "name": "Cozy leilighet i midten av Oslo",
+    "shortDescription": "En koselig leilighet i hjertet av Oslo, perfekt for par eller små familier.",
+    "description": "Denne sjarmerende leiligheten ligger i sentrum av Oslo, nær alle de beste attraksjonene, restaurantene og shoppingmulighetene. Leiligheten har ett soverom, en komfortabel stue, et fullt utstyrt kjøkken og et moderne bad. Nyt en kopp kaffe på balkongen mens du ser på byens liv og røre. Perfekt for en romantisk helg eller en liten familieferie.",
+    "price": 1200,
+    "location": "Oslo, Norge",
+    "type": "Leilighet",
+    "size": 45,
+    "beds": 2,
+    "baths": 1,
+    "amenities": ["Wi-Fi", "TV", "Kjøkken", "Balkong"],
+    "images": [
+      "2a1efa42-1698-4c98-a075-f4e717e35f0c",
+      "20bd0065-fb6b-43e2-9728-a3656f6fabc0",
+      "84df14b8-0ba7-4c97-9124-12ad79d4a55e",
+      "38fac398-ef55-4f12-a3ef-fa163acc4e2e",
+      "7d2ced26-3ddc-4a6d-ad9b-06228a993b97",
+      "004c555a-1bc4-4ff4-a2aa-39a74aeb54ca",
+      "e2d62c0a-56ec-4eb9-91c7-6e2cb1cd79f9"
+    ],
+    "floorPlan": "5d2408c8-0337-4f0c-8179-826cd1eee4b5",
+    "maps": "!1m18!1m12!1m3!1d2710.0945663053735!2d10.751278165767724!3d59.91247482323411!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416e61cee4e1bf%3A0xeaab41e737da924c!2sOslo%20Spektrum!5e1!3m2!1sen!2sno!4v1777458224791!5m2!1sen!2sno"
+  }
+]

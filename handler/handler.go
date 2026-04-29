@@ -45,9 +45,10 @@ func CreateHandler() (srv Handler) {
 func (srv *Handler) CreateGinGroup() {
 	router := gin.New()
 
-	router.Static("/", "./template")
+	apiRouter := router.Group("/api")
+	apiRouter.GET("/apartments/:id", srv.HandleGetApartment)
 
-	router.Use(func(c *gin.Context) {
+	apiRouter.Use(func(c *gin.Context) {
 		start := time.Now()
 		c.Next()
 
@@ -59,8 +60,21 @@ func (srv *Handler) CreateGinGroup() {
 		}).Info("Request handled")
 	})
 
-	// apiRouter := router.Group("/api")
+	router.Static("/template", "./template")
+	router.Static("/images", "./data/images")
 
 	runner := fmt.Sprintf("localhost:%s", srv.Config.Port)
 	router.Run(runner)
+}
+
+func (*Handler) getLog(c *gin.Context) *logrus.Logger {
+	url := c.Request.URL
+	logger := logrus.New()
+
+	logger.WithFields(logrus.Fields{
+		"method": c.Request.Method,
+		"url":    url.String(),
+	})
+
+	return logger
 }
