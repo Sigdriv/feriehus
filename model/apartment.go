@@ -16,3 +16,13 @@ type Apartment struct {
 	FloorPlan        string   `json:"floorPlan"`
 	Maps             string   `json:"maps"`
 }
+
+type Apartments struct {
+	ID     string   `json:"id"`
+	Name   string   `json:"name"`
+	Price  int      `json:"price"`
+	Images []string `json:"images"`
+	Size   int      `json:"size"`
+	Beds   int      `json:"beds"`
+	Baths  int      `json:"baths"`
+}

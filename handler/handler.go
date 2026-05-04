@@ -47,6 +47,7 @@ func (srv *Handler) CreateGinGroup() {
 
 	apiRouter := router.Group("/api")
 	apiRouter.GET("/apartments/:id", srv.HandleGetApartment)
+	apiRouter.GET("/apartments", srv.HandleGetApartments)
 
 	apiRouter.Use(func(c *gin.Context) {
 		start := time.Now()
@@ -60,6 +61,9 @@ func (srv *Handler) CreateGinGroup() {
 		}).Info("Request handled")
 	})
 
+	router.GET("/", func(ctx *gin.Context) {
+		ctx.Redirect(301, "/template")
+	})
 	router.Static("/template", "./template")
 	router.Static("/images", "./data/images")
 

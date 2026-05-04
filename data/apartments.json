@@ -22,5 +22,276 @@
     ],
     "floorPlan": "5d2408c8-0337-4f0c-8179-826cd1eee4b5",
     "maps": "!1m18!1m12!1m3!1d2710.0945663053735!2d10.751278165767724!3d59.91247482323411!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46416e61cee4e1bf%3A0xeaab41e737da924c!2sOslo%20Spektrum!5e1!3m2!1sen!2sno!4v1777458224791!5m2!1sen!2sno"
+  },
+  {
+    "id": "124",
+    "name": "Sjøhytte med utsikt i Bergen",
+    "shortDescription": "Nydelig hytte rett ved vannet med panoramautsikt over Byfjorden.",
+    "description": "Denne flotte hytten ligger idyllisk til rett ved sjøen i Bergen med spektakulær utsikt over Byfjorden. Du er bare et steinkast fra Bryggen og Bergenhus festning. Hytten har to soverom, en romslig stue med peisovn, fullt utstyrt kjøkken og en stor terrasse med hagemøbler. Perfekt for en avslappende ferie med natur og kultur i verdensklasse.",
+    "price": 1850,
+    "location": "Bergen, Norge",
+    "type": "Hytte",
+    "size": 72,
+    "beds": 3,
+    "baths": 1,
+    "amenities": ["Wi-Fi", "TV", "Kjøkken", "Terrasse", "Peisovn", "Båtplass"],
+    "images": [
+      "84df14b8-0ba7-4c97-9124-12ad79d4a55e",
+      "38fac398-ef55-4f12-a3ef-fa163acc4e2e",
+      "7d2ced26-3ddc-4a6d-ad9b-06228a993b97"
+    ],
+    "floorPlan": "5d2408c8-0337-4f0c-8179-826cd1eee4b5",
+    "maps": "!1m18!1m12!1m3!1d2000.123456789!2d5.322054!3d60.391263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x463cfc2a9af9c0a1%3A0x1b7f2e3d4c5a6b7c!2sBryggen%2C%20Bergen!5e1!3m2!1sen!2sno!4v1777458224792!5m2!1sen!2sno"
+  },
+  {
+    "id": "125",
+    "name": "Moderne villa i Stavanger",
+    "shortDescription": "Romslig villa med privat hage og garasje, nær sentrum av Stavanger.",
+    "description": "Denne elegante villaen tilbyr det beste av begge verdener – moderne komfort og nærhet til Stavangers pulserende byliv. Med fire soverom, to bad, og en herlig privat hage er dette det perfekte tilholdsstedet for familier eller grupper. Kjøkkenet er fullt utstyrt med alle fasiliteter, og stuen har panoramavinduer som slipper inn rikelig med lys.",
+    "price": 3200,
+    "location": "Stavanger, Norge",
+    "type": "Villa",
+    "size": 160,
+    "beds": 4,
+    "baths": 2,
+    "amenities": [
+      "Wi-Fi",
+      "TV",
+      "Kjøkken",
+      "Hage",
+      "Garasje",
+      "Vaskemaskin",
+      "Oppvaskmaskin"
+    ],
+    "images": [
+      "e2d62c0a-56ec-4eb9-91c7-6e2cb1cd79f9",
+      "004c555a-1bc4-4ff4-a2aa-39a74aeb54ca",
+      "2a1efa42-1698-4c98-a075-f4e717e35f0c",
+      "20bd0065-fb6b-43e2-9728-a3656f6fabc0"
+    ],
+    "floorPlan": "5d2408c8-0337-4f0c-8179-826cd1eee4b5",
+    "maps": "!1m18!1m12!1m3!1d1900.987654321!2d5.732107!3d58.969975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x463a35057d5b4a7f%3A0x2c8e3f4a5b6c7d8e!2sStavanger%20sentrum!5e1!3m2!1sen!2sno!4v1777458224793!5m2!1sen!2sno"
+  },
+  {
+    "id": "126",
+    "name": "Fjordhytte i Flåm",
+    "shortDescription": "Autentisk tømmerhytte med direkteutsikt over Aurlandsfjorden.",
+    "description": "Opplev den norske naturen på sitt aller beste i denne autentiske tømmerhytten ved Aurlandsfjorden i Flåm. Hytten er perfekt for naturelskere med tilgang til fantastiske fotturer, sykling og kajakkpadling. To soverom, treningsutstyr, vedovn og en utendørs badstue gjør dette til en uforglemmelig opplevelse. Flåmsbana går fra døren av.",
+    "price": 2100,
+    "location": "Flåm, Vestland, Norge",
+    "type": "Hytte",
+    "size": 58,
+    "beds": 2,
+    "baths": 1,
+    "amenities": [
+      "Wi-Fi",
+      "Kjøkken",
+      "Vedovn",
+      "Badstue",
+      "Terrasse",
+      "Sykkelparkering"
+    ],
+    "images": [
+      "7d2ced26-3ddc-4a6d-ad9b-06228a993b97",
+      "84df14b8-0ba7-4c97-9124-12ad79d4a55e",
+      "e2d62c0a-56ec-4eb9-91c7-6e2cb1cd79f9"
+    ],
+    "floorPlan": "5d2408c8-0337-4f0c-8179-826cd1eee4b5",
+    "maps": "!1m18!1m12!1m3!1d1500.111222333!2d7.124321!3d60.863001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x463fff8a1234abcd%3A0x3d9f4g5a6b7c8d9e!2sFlåm!5e1!3m2!1sen!2sno!4v1777458224794!5m2!1sen!2sno"
+  },
+  {
+    "id": "127",
+    "name": "Strandleilighet i Kristiansand",
+    "shortDescription": "Lys og moderne leilighet 50 meter fra sandstranden i Kristiansand.",
+    "description": "Nyt sommer og sol i denne lyse, moderne leiligheten med direkte strandtilgang i Kristiansand. Leiligheten har tre soverom, to bad og en stor balkong med havutsikt. Kort gangavstand til Dyreparken, restauranter og shoppe-muligheter. Parkeringsplass inkludert. Ideell for familier som ønsker en aktiv strandferie på Sørlandet.",
+    "price": 2750,
+    "location": "Kristiansand, Norge",
+    "type": "Leilighet",
+    "size": 95,
+    "beds": 3,
+    "baths": 2,
+    "amenities": [
+      "Wi-Fi",
+      "TV",
+      "Kjøkken",
+      "Balkong",
+      "Parkering",
+      "Vaskemaskin",
+      "Oppvaskmaskin"
+    ],
+    "images": [
+      "20bd0065-fb6b-43e2-9728-a3656f6fabc0",
+      "38fac398-ef55-4f12-a3ef-fa163acc4e2e",
+      "004c555a-1bc4-4ff4-a2aa-39a74aeb54ca",
+      "2a1efa42-1698-4c98-a075-f4e717e35f0c"
+    ],
+    "floorPlan": "5d2408c8-0337-4f0c-8179-826cd1eee4b5",
+    "maps": "!1m18!1m12!1m3!1d2200.444555666!2d7.994787!3d58.163026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x463ffab5c6d7e8f9%3A0x4eaf5g6b7c8d9e0f!2sKristiansand!5e1!3m2!1sen!2sno!4v1777458224795!5m2!1sen!2sno"
+  },
+  {
+    "id": "128",
+    "name": "Historisk gårdshus på Lillehammer",
+    "shortDescription": "Sjarmerende renovert gårdshus fra 1800-tallet med moderne fasiliteter.",
+    "description": "Reis tilbake i tid i dette sjarmerende gårdshuset fra 1800-tallet, nå fullt renovert med alle moderne fasiliteter. Beliggenheten på Lillehammer gir enkel tilgang til Mjøsa, Maihaugen og de olympiske anleggene. Fem soverom, tre bad, stor spisesal og en frodig hage gjør dette til det perfekte stedet for store familier eller vennegjengen.",
+    "price": 4500,
+    "location": "Lillehammer, Innlandet, Norge",
+    "type": "Gårdshus",
+    "size": 220,
+    "beds": 5,
+    "baths": 3,
+    "amenities": [
+      "Wi-Fi",
+      "TV",
+      "Kjøkken",
+      "Hage",
+      "Garasje",
+      "Peisovn",
+      "Vaskemaskin",
+      "Terasse"
+    ],
+    "images": [
+      "2a1efa42-1698-4c98-a075-f4e717e35f0c",
+      "7d2ced26-3ddc-4a6d-ad9b-06228a993b97",
+      "e2d62c0a-56ec-4eb9-91c7-6e2cb1cd79f9",
+      "84df14b8-0ba7-4c97-9124-12ad79d4a55e"
+    ],
+    "floorPlan": "5d2408c8-0337-4f0c-8179-826cd1eee4b5",
+    "maps": "!1m18!1m12!1m3!1d2400.777888999!2d10.466483!3d61.115219!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4641db4a1b2c3d4e%3A0x5fbg6h7c8d9e0f1g!2sLillehammer!5e1!3m2!1sen!2sno!4v1777458224796!5m2!1sen!2sno"
+  },
+  {
+    "id": "129",
+    "name": "Arktisk retreat i Tromsø",
+    "shortDescription": "Unikt opphold nord for polarsirkelen med mulighet for nordlysopplevelser.",
+    "description": "Opplev det magiske arktiske lyset i denne unike retreaten utenfor Tromsø. Hytten er designet med store glassvegger for optimal nordlysobservasjon. To soverom med pelsteppe, varm badstue og en utendørs jacuzzi gjør dette til en uforglemmelig vinteropplevelse. Sommer betyr midnattssol og fantastiske fotturer i fjellet rundt.",
+    "price": 3800,
+    "location": "Tromsø, Troms, Norge",
+    "type": "Hytte",
+    "size": 65,
+    "beds": 2,
+    "baths": 1,
+    "amenities": [
+      "Wi-Fi",
+      "TV",
+      "Kjøkken",
+      "Badstue",
+      "Jacuzzi",
+      "Peisovn",
+      "Snøscootergarasje"
+    ],
+    "images": [
+      "004c555a-1bc4-4ff4-a2aa-39a74aeb54ca",
+      "20bd0065-fb6b-43e2-9728-a3656f6fabc0",
+      "38fac398-ef55-4f12-a3ef-fa163acc4e2e"
+    ],
+    "floorPlan": "5d2408c8-0337-4f0c-8179-826cd1eee4b5",
+    "maps": "!1m18!1m12!1m3!1d3000.000111222!2d18.955324!3d69.649205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x45c4c7b1c2d3e4f5%3A0x6gch7i8d9e0f1g2h!2sTromsø!5e1!3m2!1sen!2sno!4v1777458224797!5m2!1sen!2sno"
+  },
+  {
+    "id": "130",
+    "name": "Sommerhus ved Oslofjorden",
+    "shortDescription": "Klassisk norsk sommerhus med egen brygge og båt inkludert.",
+    "description": "Det perfekte norske sommerparadiset venter deg ved Oslofjorden. Dette klassiske sommerhuset kommer med privat brygge og robåt, slik at du kan utforske fjorden på din egen måte. Tre soverom, stort kjøkken og en sydvendt terrasse med fantastisk utsikt. Bare 40 minutter med bil fra Oslo sentrum.",
+    "price": 2400,
+    "location": "Drøbak, Viken, Norge",
+    "type": "Sommerhus",
+    "size": 88,
+    "beds": 3,
+    "baths": 1,
+    "amenities": [
+      "Wi-Fi",
+      "TV",
+      "Kjøkken",
+      "Brygge",
+      "Båt",
+      "Terrasse",
+      "Grill",
+      "Badstue"
+    ],
+    "images": [
+      "38fac398-ef55-4f12-a3ef-fa163acc4e2e",
+      "2a1efa42-1698-4c98-a075-f4e717e35f0c",
+      "004c555a-1bc4-4ff4-a2aa-39a74aeb54ca",
+      "20bd0065-fb6b-43e2-9728-a3656f6fabc0"
+    ],
+    "floorPlan": "5d2408c8-0337-4f0c-8179-826cd1eee4b5",
+    "maps": "!1m18!1m12!1m3!1d1800.333444555!2d10.628753!3d59.665584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4646901234abcdef%3A0x7hdi8j9e0f1g2h3i!2sDrøbak!5e1!3m2!1sen!2sno!4v1777458224798!5m2!1sen!2sno"
+  },
+  {
+    "id": "131",
+    "name": "Ski-in ski-out leilighet i Geilo",
+    "shortDescription": "Ski direkte fra døren i dette luksuriøse leilighetsanlegget i Geilo.",
+    "description": "Drømmenes vinterferie starter her. Denne luksuriøse ski-in ski-out leiligheten i Geilo gir deg direkte tilgang til 40 km med preparerte alpinanlegg. Leiligheten har fire soverom, to bad, et moderne åpent kjøkken og en romslig stue med vedovn. Felles badstue og svømmebasseng i bygget. Perfekt for familier og vennegjenger som vil nyte det beste av norsk vintersport.",
+    "price": 5100,
+    "location": "Geilo, Numedal, Norge",
+    "type": "Leilighet",
+    "size": 130,
+    "beds": 4,
+    "baths": 2,
+    "amenities": [
+      "Wi-Fi",
+      "TV",
+      "Kjøkken",
+      "Vedovn",
+      "Badstue",
+      "Svømmebasseng",
+      "Ski-rom",
+      "Parkering"
+    ],
+    "images": [
+      "84df14b8-0ba7-4c97-9124-12ad79d4a55e",
+      "e2d62c0a-56ec-4eb9-91c7-6e2cb1cd79f9",
+      "7d2ced26-3ddc-4a6d-ad9b-06228a993b97",
+      "38fac398-ef55-4f12-a3ef-fa163acc4e2e"
+    ],
+    "floorPlan": "5d2408c8-0337-4f0c-8179-826cd1eee4b5",
+    "maps": "!1m18!1m12!1m3!1d2600.666777888!2d8.199764!3d60.531197!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x463ef1234bcdef01%3A0x8iej9k0f1g2h3i4j!2sGeilo!5e1!3m2!1sen!2sno!4v1777458224799!5m2!1sen!2sno"
+  },
+  {
+    "id": "132",
+    "name": "Kysthytte på Sørlandet",
+    "shortDescription": "Idyllisk hytte rett ved havet med egen sandstrand og kajakkutleie.",
+    "description": "Denne unike kysthytten ligger skjult i en lun vik på Sørlandet, med privat tilgang til en liten sandstrand. Hytten er perfekt for den som vil koble av i naturskjønne omgivelser. To soverom, stor stue med panoramavinduer mot havet, utendørs dusj og en romslig terrasse med bålplass. Kajakkene er inkludert i leien. Kort kjøretur til nærmeste by med restauranter og dagligvare.",
+    "price": 1950,
+    "location": "Mandal, Agder, Norge",
+    "type": "Hytte",
+    "size": 54,
+    "beds": 2,
+    "baths": 1,
+    "amenities": [
+      "Wi-Fi",
+      "Kjøkken",
+      "Terrasse",
+      "Bålplass",
+      "Kajakkutleie",
+      "Utendørs dusj",
+      "Grill"
+    ],
+    "images": [
+      "20bd0065-fb6b-43e2-9728-a3656f6fabc0",
+      "7d2ced26-3ddc-4a6d-ad9b-06228a993b97",
+      "004c555a-1bc4-4ff4-a2aa-39a74aeb54ca"
+    ],
+    "floorPlan": "5d2408c8-0337-4f0c-8179-826cd1eee4b5",
+    "maps": "!1m18!1m12!1m3!1d2100.555666777!2d7.461570!3d58.028610!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x463f8b1234abcdef%3A0x9jfk0l1g2h3i4j5k!2sMandal!5e1!3m2!1sen!2sno!4v1777458224800!5m2!1sen!2sno"
+  },
+  {
+    "id": "133",
+    "name": "Fjellhytte i Rondane",
+    "shortDescription": "Rustikk fjellhytte med fantastisk utsikt over Rondane nasjonalpark.",
+    "description": "Denne rustikke fjellhytten ligger i hjertet av Rondane nasjonalpark, og tilbyr en autentisk norsk fjellopplevelse. Hytten har tre soverom, et koselig oppholdsrom med peisovn, og et enkelt kjøkken. Nyt den spektakulære utsikten over fjellene fra den store terrassen. Perfekt for fotturer, skiturer og naturopplevelser året rundt.",
+    "price": 2300,
+    "location": "Rondane, Innlandet, Norge",
+    "type": "Hytte",
+    "size": 60,
+    "beds": 3,
+    "baths": 1,
+    "amenities": ["Wi-Fi", "Kjøkken", "Peisovn", "Terrasse", "Grill"],
+    "images": [
+      "38fac398-ef55-4f12-a3ef-fa163acc4e2e",
+      "84df14b8-0ba7-4c97-9124-12ad79d4a55e",
+      "7d2ced26-3ddc-4a6d-ad9b-06228a993b97"
+    ],
+    "floorPlan": "5d2408c8-0337-4f0c-8179-826cd1eee4b5",
+    "maps": "!1m18!1m12!1m3!1d2500.444555666!2d9.123456!3d61.987654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464123456789abcd%3A0xabcdef1234567890!2sRondane%20Nasjonalpark!5e1!3m2!1sen!2sno!4v1777458224801!5m2!1sen!2sno"
   }
 ]

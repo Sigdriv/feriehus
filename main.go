@@ -5,5 +5,7 @@ import "github.com/Sigdriv/feriehus/handler"
 func main() {
 	srv := handler.CreateHandler()
 
+	srv.InitApartments()
+
 	srv.CreateGinGroup()
 }
